@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/traveler-europe/static/css/main.566c071a.chunk.css",
+    "main.js": "/traveler-europe/static/js/main.75c96ca0.chunk.js",
+    "main.js.map": "/traveler-europe/static/js/main.75c96ca0.chunk.js.map",
+    "runtime-main.js": "/traveler-europe/static/js/runtime-main.600fc4d6.js",
+    "runtime-main.js.map": "/traveler-europe/static/js/runtime-main.600fc4d6.js.map",
+    "static/js/2.fdbe0ad8.chunk.js": "/traveler-europe/static/js/2.fdbe0ad8.chunk.js",
+    "static/js/2.fdbe0ad8.chunk.js.map": "/traveler-europe/static/js/2.fdbe0ad8.chunk.js.map",
+    "index.html": "/traveler-europe/index.html",
+    "precache-manifest.a6fe9a90af401dcfdf29db8503ab959d.js": "/traveler-europe/precache-manifest.a6fe9a90af401dcfdf29db8503ab959d.js",
+    "service-worker.js": "/traveler-europe/service-worker.js",
+    "static/css/main.566c071a.chunk.css.map": "/traveler-europe/static/css/main.566c071a.chunk.css.map",
+    "static/js/2.fdbe0ad8.chunk.js.LICENSE.txt": "/traveler-europe/static/js/2.fdbe0ad8.chunk.js.LICENSE.txt",
+    "static/media/album.jpg": "/traveler-europe/static/media/album.8cc5cb44.jpg",
+    "static/media/album1.jpg": "/traveler-europe/static/media/album1.1551569d.jpg",
+    "static/media/album2.jpg": "/traveler-europe/static/media/album2.29946efb.jpg",
+    "static/media/album3.jpg": "/traveler-europe/static/media/album3.4ddce322.jpg",
+    "static/media/album4.jpg": "/traveler-europe/static/media/album4.809a04d0.jpg",
+    "static/media/album5.jpg": "/traveler-europe/static/media/album5.ef55f142.jpg",
+    "static/media/App.css": "/traveler-europe/static/media/background.d039e200.png",
+    "static/media/berlin.jpg": "/traveler-europe/static/media/berlin.bb6fae9a.jpg",
+    "static/media/budapest.jpg": "/traveler-europe/static/media/budapest.afee3ba1.jpg",
+    "static/media/building.png": "/traveler-europe/static/media/building.0c3379cd.png",
+    "static/media/buildings.png": "/traveler-europe/static/media/buildings.7c68fe59.png",
+    "static/media/buildings1.png": "/traveler-europe/static/media/buildings1.d231eec7.png",
+    "static/media/castle.png": "/traveler-europe/static/media/castle.6cca4a1b.png",
+    "static/media/lake.png": "/traveler-europe/static/media/lake.f125b1be.png",
+    "static/media/london.jpg": "/traveler-europe/static/media/london.d3ca6b3d.jpg",
+    "static/media/paris.jpg": "/traveler-europe/static/media/paris.732a6aee.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.600fc4d6.js",
+    "static/js/2.fdbe0ad8.chunk.js",
+    "static/css/main.566c071a.chunk.css",
+    "static/js/main.75c96ca0.chunk.js"
+  ]
+}
